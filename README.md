@@ -2,7 +2,7 @@
 
 I am a fullstack web developer. In my spare time I dabble in cross platform mobile development and system administration. I make it my mission to deliver the coolest and most creative applications to clients. In the off chance if I am not programming I love to spend time with my girl, friends and dog!
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/luka-patar%C4%8Di%C4%87-8a9632180/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lukoni/)
 
 ## ⚒ My Work
 
