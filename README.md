@@ -17,7 +17,7 @@ I am a fullstack web developer. In my spare time I dabble in cross platform mobi
 [![Battle Simulator](https://github-readme-stats.vercel.app/api/pin/?username=LukaPatarcic&repo=battle-simulator)](https://github.com/LukaPatarcic/battle-simulator)
 [![Electro Wallet](https://github-readme-stats.vercel.app/api/pin/?username=LukaPatarcic&repo=eletro-wallet)](https://github.com/LukaPatarcic/eletro-wallet)
 [![Allshack](https://github-readme-stats.vercel.app/api/pin/?username=LukaPatarcic&repo=Allshack)](https://github.com/LukaPatarcic/Allshack)
-[![Walk A Dog](https://github-readme-stats.vercel.app/api/pin/?username=LukaPatarcic&repo=walkadog)](https://github.com/LukaPatarcic/walkadog)
+[![FatCat Performance Review](https://github-readme-stats.vercel.app/api/pin/?username=LukaPatarcic&repo=fatcat-performance-reviews-api)](https://github.com/LukaPatarcic/fatcat-performance-reviews-api)
 
 \+ *Many private ones*
 
